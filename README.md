@@ -1,11 +1,12 @@
 
 
-# Udacity-Project1-Facial_Keypoints_detectio
+# Udacity-Project1-Facial_Keypoints_Detection
 
 ## Installation
 
-### 1.Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
-### 2 .Create (and activate) a new environment, named cv-nd with Python 3.6. If prompted to proceed with the install (Proceed [y]/n) type y.
+## 1.Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
+
+## 2 .Create (and activate) a new environment, named cv-nd with Python 3.6. If prompted to proceed with the install (Proceed [y]/n) type y.
 
 ## For Linux or Mac
 
