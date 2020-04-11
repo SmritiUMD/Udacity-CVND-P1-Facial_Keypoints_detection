@@ -4,9 +4,9 @@
 
 ## Installation
 
-## 1.Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
+1.Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 
-## 2 .Create (and activate) a new environment, named cv-nd with Python 3.6. If prompted to proceed with the install (Proceed [y]/n) type y.
+2 .Create (and activate) a new environment, named cv-nd with Python 3.6. If prompted to proceed with the install (Proceed [y]/n) type y.
 
 ## For Linux or Mac
 
@@ -28,3 +28,5 @@ pip install -r requirements.txt
 ```
 
 ## Data
+All the required data, network architecture is there, look into that first.
+In the directory of files open jupyter notebook.
